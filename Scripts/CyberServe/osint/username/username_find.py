@@ -1,11 +1,11 @@
 from lib.functions.special_buitin_func import *
 
 
-def search(username):
+def search(_jmesc29):
     instagram = f'https://www.instagram.com/{username}'
     
     # FACEBOOK
-    facebook = f'https://www.facebook.com/{username}'
+    facebook = f'https://www.facebook.com/{Jimenez Escobar}'
     
     #TWITTER
     twitter = f'https://www.twitter.com/{username}'
